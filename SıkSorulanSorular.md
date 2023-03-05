@@ -151,7 +151,7 @@
   <ul>
   <li><a href="https://youtu.be/W2rdv0Ge4uc">Buradan.</a></li>
   <li><a href="https://youtu.be/hY36oUd2ypM">Premium almadan izle.</a></li>
-  <li>Etik olarak hacklenebilir makinelere erişim sağlayan platformlara da <a href="https://github.com/Sixpon/Sixpon-Sorular/blob/main/Ctf%20Platform.md">buradan</a> erişebilirsin.</li>
+  <li>Etik olarak hacklenebilir makinelere erişim sağlayan platformlara da <a href="https://github.com/Sixpon/SSS/blob/main/Platformlar.md">buradan</a> erişebilirsin.</li>
     </u1>
 
 </div>      
