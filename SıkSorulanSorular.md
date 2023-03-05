@@ -95,7 +95,13 @@
       <li><a href="https://youtu.be/hY36oUd2ypM">Bunu da izle.</a></li>
     </ul>
   </div>       
-      
+   <div class="faq-item">
+    <i class="fas fa-question-circle"></i>
+    <h3>Siber güvenliğe başlamak için önce hangi programlama dilini öğrenmeliyim?</h3>
+    <ul>
+      <li>Başlangıçta öğrenmen gereken şeyler linux kullanımı ve TCP/IP yani cihazlar ağ içinde nasıl iletişim kuruyor. Temel olarak bunları çözdükten sonra bilgi güvenliği temelleriyle ilerleyebilirsin. SİBER GÜVENLİĞE BAŞLAMAK İÇİN PROGRAMLAMA DİLİ BİLMEN GEREKMİYOR. Belirli bir seviyeye geldikten sonra Python, JavaScript,C,C++,Ruby,Bash Scripting gibi diller öğrenebilirsin. Orta seviyeye geldikten sonra yani kullandığın toolların ne işe yaradığını, nasıl çalıştığını çözdükten sonra, kendi ihtiyacına göre toollarını yazabilmek için programlama dili öğrenmeye başlayabilirsin. Eğer biliyorsan büyük bir artı, fakat bilmiyorsan önceliğin dil öğrenmek değil, siber güvenlik öğrenmek olsun. Nacizhane tavsiyemdir.</li>
+    </ul>
+  </div>      
       
   <h3>Bana de ki hacker olmak için bunu bunu bunu izle.</h3>
     <ul>
