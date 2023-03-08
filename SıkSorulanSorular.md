@@ -60,7 +60,14 @@
     <li>Hayır. </li>
     </ul>
   </div>
- 
+  <div class="faq-item">
+    <i class="fas fa-question-circle"></i>
+    <h3>Dos,DDoS, Phishing gibi illegal konularda video yapacak mısın? </h3>
+    <ul>
+      <li>Hayır. <a href="https://youtu.be/7WOyVqbeIjQ?t=248">Sebebi Burada</a></li>
+    </ul>
+  </div>  
+  
   <div class="faq-item">
     <i class="fas fa-question-circle"></i>
     <h3>Yeni eğitim ne zaman gelecek? </h3>
