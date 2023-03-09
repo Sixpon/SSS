@@ -75,7 +75,14 @@
     <li>Hazırlandığı zaman. </li>
     </ul>
   </div>   
-  
+   <div class="faq-item">
+    <i class="fas fa-question-circle"></i>
+    <h3>İngilizce bilmeden hacker olabilir miyim?</h3>
+    <ul>
+      <li><a href="https://youtu.be/sgIc63sHSz0">Hayır (Detaylı)</a></li>
+    </ul>
+  </div>
+      
   <div class="faq-item">
     <i class="fas fa-question-circle"></i>
     <h3>Sürekli olarak sormam, bu işlemi hızlandıracak mı?</h3>
